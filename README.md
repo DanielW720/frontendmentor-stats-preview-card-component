@@ -6,8 +6,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 The challenge is to build out this stats preview card component and get it looking as close to the design as possible, for both mobile and desktop screens.
 
-<img src="./design/mobile-design.jpg" alt="Mobile design for the stats preview card component coding challenge" height="50%">
-<img src="./design/desktop-design.jpg" alt="Desktop design for the stats preview card component coding challenge" width="50%">
+<img src="./design/mobile-design.jpg" alt="Mobile design for the stats preview card component coding challenge" width="50%">
+<img src="./design/desktop-design.jpg" alt="Desktop design for the stats preview card component coding challenge" width="100%">
 
 Users should be able to:
 
@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Screenshots
 
-<img src="screenshot-mobile.png"  height="50%">
-<img src="screenshot-desktop.png"  width="50%">
+<img src="screenshot-mobile.png"  width="50%">
+<img src="screenshot-desktop.png"  width="100%">
 
 ### Links
 
